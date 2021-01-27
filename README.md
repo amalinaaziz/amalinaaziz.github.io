@@ -1,3 +1,3 @@
 # Amalina Aziz's Portfolio
 
-amalinaaziz.github.io
+A portfolio hosted at amalinaaziz.github.io
